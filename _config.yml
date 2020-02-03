@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : HiSPARC
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Tom Kooij
+  email : tkooij@nikhef.nl
+  github : tomkooij
+  twitter : tomkooij
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
